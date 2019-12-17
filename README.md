@@ -15,8 +15,10 @@ You don't need to wait wallet sync.
 # OUR LOGO
 Please do not edit, change, distort, color or readjust the PlusBit logo.
 
+Landspace
 ![Landspace](https://plusbit.tech/assets/img/logo7.png)
 
+Vertical
 ![Vertical](https://plusbit.tech/assets/img/logver.png)
 
 
