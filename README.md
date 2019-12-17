@@ -15,7 +15,7 @@ You don't need to wait wallet sync.
 # OUR LOGO
 Please do not edit, change, distort, color or readjust the PlusBit logo.
 
-![Logo](https://plusbit.tech/assets/img/logopresent.png)
+![Logo](https://plusbit.tech/assets/img/logopresent.jpg)
 
 # PLUSBIT COLORS
 Please do not use colours other than those expressed here [i, in case of doing so, please consult our Email first with a preview JPG, (cases such as logo galleries)
