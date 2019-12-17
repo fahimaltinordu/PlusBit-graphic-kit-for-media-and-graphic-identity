@@ -24,3 +24,5 @@ Vertical
 
 # PLUSBIT COLORS
 Please do not use colours other than those expressed here [i, in case of doing so, please consult our Email first with a preview JPG, (cases such as logo galleries)
+
+![Vertical](https://plusbit.tech/assets/img/pcolors.png)
